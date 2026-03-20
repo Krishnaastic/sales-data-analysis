@@ -1,14 +1,27 @@
-# sales-data-analysis
-End-to-end data analytics project using Excel, SQL, and Power BI
-## 📊 Data Analysis
+# 📊 Sales Data Analysis Dashboard
 
-### Key Insights:
+End-to-end data analytics project using Excel, MySQL, and Tableau.
 
-- Technology category generated the highest sales (~827K), outperforming other categories
-- West region emerged as the top-performing region in terms of revenue
-- Total sales exceeded 2.26 million across all transactions
-- Identified top-performing products contributing a significant portion of total revenue
-- Observed clear monthly sales trends indicating seasonality patterns
-### Tools Used:
-- Google Sheets / Excel
-- GitHub
+## 🔧 Tools Used
+- Excel (Data Cleaning & Pivot Tables)
+- MySQL (Data Analysis using SQL)
+- Tableau (Data Visualization & Dashboard)
+
+## 📈 Key Insights
+- Technology category generated the highest sales (~827K)
+- West region is the top-performing region
+- Total sales exceeded 2.26 million
+- A small number of products contribute to major revenue
+- Sales show clear monthly trends and seasonality
+
+## 📊 Dashboard Features
+- Sales by Category
+- Sales by Region
+- Monthly Sales Trend
+- Top 10 Products
+- Interactive filters for dynamic analysis
+
+## 🚀 Project Highlights
+- End-to-end pipeline: Data Cleaning → SQL Analysis → Visualization
+- Built interactive and user-friendly dashboard
+- Derived actionable business insights from raw data
